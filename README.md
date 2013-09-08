@@ -2,6 +2,7 @@ Head_Balanceinator
 ==================
 
 Head Balancinator - Dynamic head support for children with severe hypotonia design files
+
 Thingiverse - http://www.thingiverse.com/thing:148045
 
 I designed this for my 20 month old daughter who has severe hypotonia. The problem was that as she got older and bigger it was harder and harder for her to fight gravity and hold her head up. I built this to take some of the weight off of her head and still allow her freedom of movement. This allows her to still use her core muscles and build them up slowly while still interacting with her environment.
